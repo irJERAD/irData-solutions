@@ -76,9 +76,9 @@ googleAnalytics = ""
     # To change the background image of the hero, replace 'uncertain.gif' in
     # the 'static/img' folder.
     title = '<span style="background-color: #fed136">
-                irData (.) Solutions'
+                &nbsp;irData (.) Solutions&nbsp;'
     subtitle = '<span style="background-color: #fed136">
-                Custom Data Solutions'
+                &nbsp;Custom Data&nbsp; &nbsp;Solutions&nbsp;'
     buttonText = "Tell me more"
 
 
